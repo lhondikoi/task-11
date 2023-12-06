@@ -1,1 +1,1 @@
-The site is hosted at (https://curious-mooncake-b5cc80.netlify.app/).
+The site is hosted at https://curious-mooncake-b5cc80.netlify.app/.
